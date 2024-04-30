@@ -25,7 +25,7 @@ Instructions to make sure the setup works:
 
 Instructions for local setup:
 
-1. Ganache (same as tutorial four)
+1. Ganache
 
 - open a ganache server and pretty much leave it as default
 - add the network to MetaMask
