@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.6",
+    "solc": "^0.8.15",
+    "web3": "^1.7.4"
+  },
+  "name": "sc2",
+  "description": "COMP6452 SC2 Supply Chain\r This is Caspar's branch\r Caspar z5206252",
+  "version": "1.0.0",
+  "main": "oracle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodforde/sc2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodforde/sc2/issues"
+  },
+  "homepage": "https://github.com/woodforde/sc2#readme"
+}

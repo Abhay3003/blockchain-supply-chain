@@ -1,0 +1,3 @@
+
+Authentication Contract = "0x1c748305D66bFd5D680EbbfC4D665C8e5fD4a1eD"
+Validation Contract     = "0xeB0C29417371871BFf203626A4b66E721F354896"
